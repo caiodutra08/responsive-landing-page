@@ -1,6 +1,6 @@
 Meu treino de página responsiva.
 
-##Ferramentas
+Ferramentas
   jQuery
   CSS3
   HTML5
